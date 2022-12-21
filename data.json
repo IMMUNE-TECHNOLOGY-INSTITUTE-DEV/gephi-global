@@ -8,8 +8,8 @@
             "attributes": {
                 "Tipo de programa": "Bootcamp"
             },
-            "color": "rgb(0,183,218)",
-            "size": 46.5217399597168
+            "color": "rgb(56, 13, 195)",
+            "size": 40.0
         },
         {
             "label": "Criptografía para desarrollo seguro",
@@ -19,8 +19,8 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "color": "rgb(80, 89, 249)",
+            "size": 6.0
         },
         {
             "label": "Basic Databases",
@@ -30,8 +30,8 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "color": "rgb(80, 89, 249)",
+            "size": 6.0
         },
         {
             "label": "Seguridad en fase de diseño",
@@ -41,8 +41,8 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "color": "rgb(80, 89, 249)",
+            "size": 6.0
         },
         {
             "label": "Legal \u0026 Smart Contracts",
@@ -52,8 +52,8 @@
             "attributes": {
                 "Tipo de programa": "Módulo"
             },
-            "color": "rgb(255,85,132)",
-            "size": 34.130435943603516
+            "color": "rgb(255, 211, 159)",
+            "size": 6.0
         },
         {
             "label": "Diploma en python avanzado",
@@ -63,8 +63,8 @@
             "attributes": {
                 "Tipo de programa": "Diploma"
             },
-            "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "color": "rgb(226, 97, 214)",
+            "size": 10.0
         },
         {
             "label": "Master Data Science Online",
@@ -74,8 +74,8 @@
             "attributes": {
                 "Tipo de programa": "Master"
             },
-            "color": "rgb(40,179,106)",
-            "size": 87.82608032226562
+            "color": "rgb(94, 0, 94)",
+            "size": 60.0
         },
         {
             "label": "Experto Data Analytics",
@@ -85,8 +85,8 @@
             "attributes": {
                 "Tipo de programa": "Experto"
             },
-            "color": "rgb(249,119,67)",
-            "size": 46.5217399597168
+            "color": "rgb(158, 35, 141)",
+            "size": 18.0
         },
         {
             "label": "Aplicaciones de seguridad",
@@ -97,7 +97,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Implementación de experiencias conversacionales",
@@ -108,7 +108,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en auditorias y pruebas de paso a produccion",
@@ -119,7 +119,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Diploma en fundamentos de programación",
@@ -130,7 +130,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 58.91304016113281
+            "size": 10.0
         },
         {
             "label": "Introducción al UX/UI. Design Sprint",
@@ -141,7 +141,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Mobile Programming I",
@@ -152,7 +152,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Seguridad en fase de coding",
@@ -163,7 +163,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Voice Tech",
@@ -174,7 +174,7 @@
                 "Tipo de programa": "Curso corto"
             },
             "color": "rgb(0,189,148)",
-            "size": 46.5217399597168
+            "size": 10.0
         },
         {
             "label": "Diploma en machine learning no supervisado",
@@ -185,7 +185,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 42.39130401611328
+            "size": 10.0
         },
         {
             "label": "Master Cloud Architect",
@@ -196,7 +196,7 @@
                 "Tipo de programa": "Master"
             },
             "color": "rgb(40,179,106)",
-            "size": 58.91304016113281
+            "size": 60.0
         },
         {
             "label": "Big Data",
@@ -207,7 +207,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Experto Data Engineering Avanzado (Big Data)",
@@ -218,7 +218,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 50.65217590332031
+            "size": 18.0
         },
         {
             "label": "Frontend",
@@ -229,7 +229,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Blockchain para el sector legal",
@@ -251,7 +251,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Mobile Programming II",
@@ -262,7 +262,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Robotics",
@@ -273,7 +273,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Experto Arquitectura Ciber",
@@ -284,7 +284,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 46.5217399597168
+            "size": 18.0
         },
         {
             "label": "Diploma en auditoria forense",
@@ -295,7 +295,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Diploma en programacion de exploits",
@@ -306,7 +306,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Secure coding",
@@ -317,7 +317,7 @@
                 "Tipo de programa": "Curso corto"
             },
             "color": "rgb(0,189,148)",
-            "size": 54.78260803222656
+            "size": 10.0
         },
         {
             "label": "Diploma en Arquitecto Cloud Senior",
@@ -328,7 +328,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Diploma en hacking etico",
@@ -339,7 +339,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Diploma en Machine Learning Cloud",
@@ -350,7 +350,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 42.39130401611328
+            "size": 10.0
         },
         {
             "label": "Backend",
@@ -361,7 +361,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en aplicacion datascience al negocio",
@@ -372,7 +372,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Experto Cloud DevOps",
@@ -383,7 +383,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 54.78260803222656
+            "size": 18.0
         },
         {
             "label": "Cloud Core",
@@ -394,7 +394,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Diseño visual de la interfaz (UI). Prototipado",
@@ -405,7 +405,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Presente y futuro de las interfaces conversacionales",
@@ -416,7 +416,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en big data",
@@ -427,7 +427,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 42.39130401611328
+            "size": 10.0
         },
         {
             "label": "Experto Pentesting y Hacking Ético",
@@ -438,7 +438,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 42.39130401611328
+            "size": 18.0
         },
         {
             "label": "Desarrollo de aplicaciones Backend",
@@ -449,7 +449,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Seguridad de la plataforma y la red",
@@ -460,7 +460,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Ciberinteligencia y respuesta a incidentes",
@@ -471,7 +471,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Diploma de fundamentos de cloud computing",
@@ -482,7 +482,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 63.043479919433594
+            "size": 10.0
         },
         {
             "label": "Cloud Fundamentals",
@@ -504,7 +504,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en Cloud Architect",
@@ -515,7 +515,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 50.65217590332031
+            "size": 10.0
         },
         {
             "label": "Diploma en ingeniero de ddbb cloud",
@@ -526,7 +526,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 54.78260803222656
+            "size": 10.0
         },
         {
             "label": "Seguridad en Cloud",
@@ -537,7 +537,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en visualizacion avanzada de datos",
@@ -548,7 +548,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 42.39130401611328
+            "size": 10.0
         },
         {
             "label": "Data Structures",
@@ -559,7 +559,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "HTML y CSS",
@@ -570,7 +570,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Research. Técnicas de investigación",
@@ -581,7 +581,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Javascript",
@@ -592,7 +592,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Blockchain in Legal",
@@ -603,7 +603,7 @@
                 "Tipo de programa": "Curso Corto"
             },
             "color": "rgb(211,179,176)",
-            "size": 42.39130401611328
+            "size": 10.0
         },
         {
             "label": "Diploma en limpieza de datos i",
@@ -614,7 +614,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Software Development Fundamentals I",
@@ -625,7 +625,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Master Cloud 360",
@@ -636,7 +636,7 @@
                 "Tipo de programa": "Master"
             },
             "color": "rgb(40,179,106)",
-            "size": 79.56521606445312
+            "size": 60.0
         },
         {
             "label": "Experto Data Engineering",
@@ -647,7 +647,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 38.26087188720703
+            "size": 18.0
         },
         {
             "label": "Experto Gobierno y Planes Directores",
@@ -658,7 +658,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 42.39130401611328
+            "size": 18.0
         },
         {
             "label": "Web Programming I",
@@ -669,7 +669,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Ingeniería de Desarrollo de Software",
@@ -691,7 +691,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 42.39130401611328
+            "size": 10.0
         },
         {
             "label": "Cybersecurity",
@@ -702,7 +702,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Cloud Computing",
@@ -713,7 +713,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Implementación y testing con usuarios",
@@ -724,7 +724,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en ingeniero Devops Senior",
@@ -735,7 +735,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Diploma en analisis de ciberamenazas",
@@ -746,7 +746,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Software Engineering I",
@@ -757,7 +757,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en gobierno y cumplimiento",
@@ -768,7 +768,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Fundamentos del desarrollo web",
@@ -779,7 +779,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Experto Cloud Architect",
@@ -790,7 +790,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 50.65217590332031
+            "size": 18.0
         },
         {
             "label": "Web Programming II",
@@ -801,7 +801,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Introducción al desarrollo",
@@ -812,7 +812,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en modelos de bases de datos",
@@ -823,7 +823,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Diseño de interfaz conversacional",
@@ -834,7 +834,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en fundamentos de python",
@@ -845,7 +845,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 58.91304016113281
+            "size": 10.0
         },
         {
             "label": "Software Development Fundamentals II",
@@ -856,7 +856,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Desarrollo de aplicaciones Front con React",
@@ -867,7 +867,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Principios de la ciberseguridad",
@@ -878,7 +878,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Diseño de interacción y arquitectura de la información",
@@ -889,7 +889,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en introduccion a machine learning",
@@ -900,7 +900,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Experto Cloud SRE",
@@ -911,7 +911,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 54.78260803222656
+            "size": 18.0
         },
         {
             "label": "Master Avanzado en Ciberseguridad",
@@ -922,7 +922,7 @@
                 "Tipo de programa": "Master"
             },
             "color": "rgb(40,179,106)",
-            "size": 50.65217590332031
+            "size": 60.0
         },
         {
             "label": "Data Science",
@@ -933,7 +933,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en ingeniero de redes Cloud",
@@ -944,7 +944,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Prueba de seguridad de aplicaciones web",
@@ -955,7 +955,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Master Online en ciberseguridad",
@@ -966,7 +966,7 @@
                 "Tipo de programa": "Master"
             },
             "color": "rgb(40,179,106)",
-            "size": 58.91304016113281
+            "size": 60.0
         },
         {
             "label": "Experto Investigación y Respuesta ante Incidentes",
@@ -977,7 +977,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 46.5217399597168
+            "size": 18.0
         },
         {
             "label": "Diploma en configuracion segura de sistemas",
@@ -988,7 +988,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Software Engineering II",
@@ -999,7 +999,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en limpieza de datos",
@@ -1010,7 +1010,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Diploma en ingeniero de seguridad cloud",
@@ -1021,7 +1021,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 46.5217399597168
+            "size": 10.0
         },
         {
             "label": "Master Cloud Devops",
@@ -1032,7 +1032,7 @@
                 "Tipo de programa": "Master"
             },
             "color": "rgb(40,179,106)",
-            "size": 30.0
+            "size": 60.0
         },
         {
             "label": "Diploma en gestión de incidentes de ciberseguridad",
@@ -1043,7 +1043,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Diploma en arquitecturas de ciberseguridad ot",
@@ -1054,7 +1054,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Diploma en big data avanzado",
@@ -1065,7 +1065,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Diploma en ingeniero de datos Cloud",
@@ -1076,7 +1076,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Object-Oriented Programming",
@@ -1087,7 +1087,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en cloud SRE",
@@ -1098,7 +1098,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "Master Avanzado en data Science",
@@ -1109,7 +1109,7 @@
                 "Tipo de programa": "Master"
             },
             "color": "rgb(40,179,106)",
-            "size": 58.91304016113281
+            "size": 60.0
         },
         {
             "label": "Conceptos básicos",
@@ -1120,7 +1120,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Algorithms",
@@ -1131,7 +1131,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Blockchain",
@@ -1142,7 +1142,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Diploma en deep learning",
@@ -1153,7 +1153,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 38.26087188720703
+            "size": 10.0
         },
         {
             "label": "El futuro de la ciberseguridad",
@@ -1164,7 +1164,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 34.130435943603516
+            "size": 10.0
         },
         {
             "label": "Diploma en fundamentos de ciberseguridad e it",
@@ -1175,7 +1175,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 50.65217590332031
+            "size": 10.0
         },
         {
             "label": "Networking",
@@ -1186,7 +1186,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Artificial Intelligence",
@@ -1197,7 +1197,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Master Cloud DevOps",
@@ -1208,7 +1208,7 @@
                 "Tipo de programa": "Master"
             },
             "color": "rgb(40,179,106)",
-            "size": 58.91304016113281
+            "size": 60.0
         },
         {
             "label": "Diploma en tecnico Cloud",
@@ -1219,7 +1219,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 58.91304016113281
+            "size": 10.0
         },
         {
             "label": "Computer Architecture",
@@ -1230,7 +1230,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Experto Cloud Arhcitect",
@@ -1241,7 +1241,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 30.0
+            "size": 18.0
         },
         {
             "label": "Bootcamp Diseño UX/UI",
@@ -1252,7 +1252,7 @@
                 "Tipo de programa": "Bootcamp"
             },
             "color": "rgb(0,183,218)",
-            "size": 50.65217590332031
+            "size": 40.0
         },
         {
             "label": "Fundamentos",
@@ -1274,7 +1274,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 30.0
+            "size": 18.0
         },
         {
             "label": "Bootcamp Data Analytics",
@@ -1285,7 +1285,7 @@
                 "Tipo de programa": "Bootcamp"
             },
             "color": "rgb(0,183,218)",
-            "size": 46.5217399597168
+            "size": 40.0
         },
         {
             "label": "Diploma en analisis exploratorio \u0026 visualizacion basica de datos",
@@ -1296,7 +1296,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 42.39130401611328
+            "size": 10.0
         },
         {
             "label": "Lenguajes de programación",
@@ -1307,7 +1307,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Desarrollo web",
@@ -1318,7 +1318,7 @@
                 "Tipo de programa": "Curso corto"
             },
             "color": "rgb(0,189,148)",
-            "size": 50.65217590332031
+            "size": 10.0
         },
         {
             "label": "Visualization Technique",
@@ -1329,7 +1329,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Advanced Databases",
@@ -1340,7 +1340,7 @@
                 "Tipo de programa": "Módulos"
             },
             "color": "rgb(255,136,5)",
-            "size": 34.130435943603516
+            "size": 6.0
         },
         {
             "label": "Experto Data Analytics Avanzado",
@@ -1351,7 +1351,7 @@
                 "Tipo de programa": "Experto"
             },
             "color": "rgb(249,119,67)",
-            "size": 50.65217590332031
+            "size": 18.0
         },
         {
             "label": "Diploma en Cloud Devops",
@@ -1362,7 +1362,7 @@
                 "Tipo de programa": "Diploma"
             },
             "color": "rgb(154,150,229)",
-            "size": 54.78260803222656
+            "size": 10.0
         }
     ],
     "edges": [
