@@ -107,7 +107,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -140,7 +140,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -151,7 +151,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -162,7 +162,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -173,7 +173,7 @@
             "attributes": {
                 "Tipo de programa": "Curso corto"
             },
-            "color": "rgb(0,189,148)",
+            "color": "rgb(80, 89, 249)",
             "size": 10.0
         },
         {
@@ -206,7 +206,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -228,7 +228,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -261,7 +261,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -272,7 +272,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -360,7 +360,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -404,7 +404,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -415,7 +415,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -448,7 +448,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -503,7 +503,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -536,7 +536,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -558,7 +558,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -569,7 +569,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -580,7 +580,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -591,7 +591,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -624,7 +624,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -668,7 +668,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -679,8 +679,8 @@
             "attributes": {
                 "Tipo de programa": "Grado"
             },
-            "color": "rgb(192,192,192)",
-            "size": 125.0
+            "color": "rgb(51, 217, 190)",
+            "size": 80.0
         },
         {
             "label": "Diploma en machine learning supervisado",
@@ -701,7 +701,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -712,7 +712,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -723,7 +723,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -756,7 +756,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -778,7 +778,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -800,7 +800,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -811,7 +811,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -833,7 +833,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -855,7 +855,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -866,7 +866,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -888,7 +888,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -932,7 +932,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -954,7 +954,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -998,7 +998,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1086,7 +1086,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1119,7 +1119,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1130,7 +1130,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1141,7 +1141,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1185,7 +1185,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1196,7 +1196,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1229,7 +1229,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1306,7 +1306,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1328,7 +1328,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1339,7 +1339,7 @@
             "attributes": {
                 "Tipo de programa": "Módulos"
             },
-            "color": "rgb(255,136,5)",
+            "color": "rgb(80, 89, 249)",
             "size": 6.0
         },
         {
@@ -1371,7 +1371,7 @@
             "target": "Experto Pentesting y Hacking Ético",
             "id": "20",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1379,7 +1379,7 @@
             "target": "Experto Big Data",
             "id": "205",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1387,7 +1387,7 @@
             "target": "Basic Databases",
             "id": "332",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1395,7 +1395,7 @@
             "target": "Diploma en analisis exploratorio \u0026 visualizacion basica de datos",
             "id": "239",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1403,7 +1403,7 @@
             "target": "Master Avanzado en data Science",
             "id": "165",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1411,7 +1411,7 @@
             "target": "Blockchain in Legal",
             "id": "95",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1419,7 +1419,7 @@
             "target": "Bootcamp de Desarrollo Web",
             "id": "346",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1427,7 +1427,7 @@
             "target": "Visualization Technique",
             "id": "331",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1435,7 +1435,7 @@
             "target": "Diploma en ingeniero de redes Cloud",
             "id": "92",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1443,7 +1443,7 @@
             "target": "Diploma en ingeniero de seguridad cloud",
             "id": "59",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1451,7 +1451,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "322",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1459,7 +1459,7 @@
             "target": "Experto Arquitectura Ciber",
             "id": "18",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1467,7 +1467,7 @@
             "target": "Diploma en analisis exploratorio \u0026 visualizacion basica de datos",
             "id": "211",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1475,7 +1475,7 @@
             "target": "Blockchain",
             "id": "344",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1483,7 +1483,7 @@
             "target": "Desarrollo web",
             "id": "389",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1491,7 +1491,7 @@
             "target": "Diploma en introduccion a machine learning",
             "id": "213",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1499,7 +1499,7 @@
             "target": "Implementación y testing con usuarios",
             "id": "363",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1507,7 +1507,7 @@
             "target": "Diploma en auditorias y pruebas de paso a produccion",
             "id": "28",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1515,7 +1515,7 @@
             "target": "Master Cloud Architect",
             "id": "277",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1523,7 +1523,7 @@
             "target": "Master Data Science Online",
             "id": "178",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1531,7 +1531,7 @@
             "target": "Experto Data Engineering Avanzado (Big Data)",
             "id": "204",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1539,7 +1539,7 @@
             "target": "Seguridad en fase de coding",
             "id": "368",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1547,7 +1547,7 @@
             "target": "Frontend",
             "id": "353",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1555,7 +1555,7 @@
             "target": "Diploma en big data avanzado",
             "id": "236",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1563,7 +1563,7 @@
             "target": "Diploma en Cloud Devops",
             "id": "77",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1571,7 +1571,7 @@
             "target": "Experto Data Analytics",
             "id": "176",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1579,7 +1579,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "306",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1587,7 +1587,7 @@
             "target": "Master Cloud DevOps",
             "id": "287",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1595,7 +1595,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "312",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1603,7 +1603,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "300",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1611,7 +1611,7 @@
             "target": "Bootcamp Data Analytics",
             "id": "166",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1619,7 +1619,7 @@
             "target": "Master Data Science Online",
             "id": "171",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1627,7 +1627,7 @@
             "target": "Master Cloud DevOps",
             "id": "278",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1635,7 +1635,7 @@
             "target": "Master Avanzado en Ciberseguridad",
             "id": "23",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1643,7 +1643,7 @@
             "target": "Aplicaciones de seguridad",
             "id": "49",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1651,7 +1651,7 @@
             "target": "Cloud Fundamentals",
             "id": "248",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1659,7 +1659,7 @@
             "target": "Cybersecurity",
             "id": "343",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1667,7 +1667,7 @@
             "target": "Mobile Programming II",
             "id": "337",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1675,7 +1675,7 @@
             "target": "Software Engineering I",
             "id": "338",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1683,7 +1683,7 @@
             "target": "Diploma en big data",
             "id": "235",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1691,7 +1691,7 @@
             "target": "Experto Arquitectura Ciber",
             "id": "6",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1699,7 +1699,7 @@
             "target": "Experto Cloud Architect",
             "id": "280",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1707,7 +1707,7 @@
             "target": "Diploma en limpieza de datos",
             "id": "210",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1715,7 +1715,7 @@
             "target": "Master Online en ciberseguridad",
             "id": "9",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1723,7 +1723,7 @@
             "target": "Fundamentos",
             "id": "97",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1731,7 +1731,7 @@
             "target": "Lenguajes de programación",
             "id": "351",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1739,7 +1739,7 @@
             "target": "Diploma en Cloud Architect",
             "id": "69",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1747,7 +1747,7 @@
             "target": "Algorithms",
             "id": "328",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1755,7 +1755,7 @@
             "target": "Software Development Fundamentals II",
             "id": "326",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1763,7 +1763,7 @@
             "target": "Voice Tech",
             "id": "381",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1771,7 +1771,7 @@
             "target": "Mobile Programming I",
             "id": "336",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1779,7 +1779,7 @@
             "target": "Diploma en Cloud Architect",
             "id": "63",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1787,7 +1787,7 @@
             "target": "Master Cloud Architect",
             "id": "271",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1795,7 +1795,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "301",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1803,7 +1803,7 @@
             "target": "Seguridad de la plataforma y la red",
             "id": "48",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1811,7 +1811,7 @@
             "target": "Master Online en ciberseguridad",
             "id": "13",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1819,7 +1819,7 @@
             "target": "Diploma en tecnico Cloud",
             "id": "297",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1827,7 +1827,7 @@
             "target": "Experto Investigación y Respuesta ante Incidentes",
             "id": "14",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1835,7 +1835,7 @@
             "target": "Master Data Science Online",
             "id": "194",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1843,7 +1843,7 @@
             "target": "Diploma en tecnico Cloud",
             "id": "56",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1851,7 +1851,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "311",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1859,7 +1859,7 @@
             "target": "Bootcamp Diseño UX/UI",
             "id": "355",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1867,7 +1867,7 @@
             "target": "Diploma en Cloud Architect",
             "id": "76",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1875,7 +1875,7 @@
             "target": "Criptografía para desarrollo seguro",
             "id": "365",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1883,7 +1883,7 @@
             "target": "Master Avanzado en data Science",
             "id": "197",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1891,7 +1891,7 @@
             "target": "Diploma de fundamentos de cloud computing",
             "id": "67",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1899,7 +1899,7 @@
             "target": "Secure coding",
             "id": "371",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1907,7 +1907,7 @@
             "target": "Master Data Science Online",
             "id": "193",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1915,7 +1915,7 @@
             "target": "Diploma en analisis exploratorio \u0026 visualizacion basica de datos",
             "id": "221",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1923,7 +1923,7 @@
             "target": "Master Data Science Online",
             "id": "247",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1931,7 +1931,7 @@
             "target": "Object-Oriented Programming",
             "id": "329",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1939,7 +1939,7 @@
             "target": "Experto Pentesting y Hacking Ético",
             "id": "4",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1947,7 +1947,7 @@
             "target": "Master Avanzado en data Science",
             "id": "172",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1955,7 +1955,7 @@
             "target": "Master Avanzado en data Science",
             "id": "183",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1963,7 +1963,7 @@
             "target": "Diploma en fundamentos de ciberseguridad e it",
             "id": "36",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1971,7 +1971,7 @@
             "target": "Diploma en fundamentos de python",
             "id": "238",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1979,7 +1979,7 @@
             "target": "Diploma en machine learning supervisado",
             "id": "223",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1987,7 +1987,7 @@
             "target": "Big Data",
             "id": "341",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -1995,7 +1995,7 @@
             "target": "Diploma en Cloud Architect",
             "id": "83",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2003,7 +2003,7 @@
             "target": "Voice Tech",
             "id": "382",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2011,7 +2011,7 @@
             "target": "Diploma en hacking etico",
             "id": "45",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2019,7 +2019,7 @@
             "target": "Diploma en cloud SRE",
             "id": "60",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2027,7 +2027,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "314",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2035,7 +2035,7 @@
             "target": "Advanced Databases",
             "id": "340",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2043,7 +2043,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "304",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2051,7 +2051,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "316",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2059,7 +2059,7 @@
             "target": "Desarrollo de aplicaciones Front con React",
             "id": "388",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2067,7 +2067,7 @@
             "target": "Diploma en hacking etico",
             "id": "29",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2075,7 +2075,7 @@
             "target": "Bootcamp de Desarrollo Web",
             "id": "347",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2083,7 +2083,7 @@
             "target": "Diploma en fundamentos de ciberseguridad e it",
             "id": "26",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2091,7 +2091,7 @@
             "target": "Experto Cloud SRE",
             "id": "275",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2099,7 +2099,7 @@
             "target": "Diploma en fundamentos de python",
             "id": "227",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2107,7 +2107,7 @@
             "target": "Diploma en gobierno y cumplimiento",
             "id": "32",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2115,7 +2115,7 @@
             "target": "Diploma en fundamentos de programación",
             "id": "232",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2123,7 +2123,7 @@
             "target": "Diploma en Arquitecto Cloud Senior",
             "id": "89",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2131,7 +2131,7 @@
             "target": "Experto Data Engineering Avanzado (Big Data)",
             "id": "168",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2139,7 +2139,7 @@
             "target": "Web Programming II",
             "id": "335",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2147,7 +2147,7 @@
             "target": "Secure coding",
             "id": "374",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2155,7 +2155,7 @@
             "target": "Diploma en deep learning",
             "id": "216",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2163,7 +2163,7 @@
             "target": "Diploma en aplicacion datascience al negocio",
             "id": "217",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2171,7 +2171,7 @@
             "target": "Master Avanzado en data Science",
             "id": "203",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2179,7 +2179,7 @@
             "target": "Master Data Science Online",
             "id": "182",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2187,7 +2187,7 @@
             "target": "Diseño de interfaz conversacional",
             "id": "378",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2195,7 +2195,7 @@
             "target": "Diploma en ingeniero de seguridad cloud",
             "id": "86",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2203,7 +2203,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "313",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2211,7 +2211,7 @@
             "target": "Diploma en fundamentos de ciberseguridad e it",
             "id": "33",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2219,7 +2219,7 @@
             "target": "Experto Arquitectura Ciber",
             "id": "8",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2227,7 +2227,7 @@
             "target": "Research. Técnicas de investigación",
             "id": "360",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2235,7 +2235,7 @@
             "target": "Master Avanzado en data Science",
             "id": "201",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2243,7 +2243,7 @@
             "target": "Master Online en ciberseguridad",
             "id": "5",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2251,7 +2251,7 @@
             "target": "Bootcamp Diseño UX/UI",
             "id": "354",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2259,7 +2259,7 @@
             "target": "Diploma en fundamentos de programación",
             "id": "237",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2267,7 +2267,7 @@
             "target": "Diploma de fundamentos de cloud computing",
             "id": "81",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2275,7 +2275,7 @@
             "target": "Diploma en machine learning no supervisado",
             "id": "215",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2283,7 +2283,7 @@
             "target": "Diploma en fundamentos de ciberseguridad e it",
             "id": "40",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2291,7 +2291,7 @@
             "target": "Diploma en python avanzado",
             "id": "234",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2299,7 +2299,7 @@
             "target": "Diploma en Machine Learning Cloud",
             "id": "79",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2307,7 +2307,7 @@
             "target": "Bootcamp de Desarrollo Web",
             "id": "348",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2315,7 +2315,7 @@
             "target": "Cloud Core",
             "id": "249",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2323,7 +2323,7 @@
             "target": "Diploma en Cloud Devops",
             "id": "64",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2331,7 +2331,7 @@
             "target": "Fundamentos del desarrollo web",
             "id": "350",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2339,7 +2339,7 @@
             "target": "Master Avanzado en Ciberseguridad",
             "id": "21",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2347,7 +2347,7 @@
             "target": "Bootcamp Diseño UX/UI",
             "id": "357",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2355,7 +2355,7 @@
             "target": "Bootcamp Data Analytics",
             "id": "198",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2363,7 +2363,7 @@
             "target": "Master Cloud Devops",
             "id": "272",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2371,7 +2371,7 @@
             "target": "Diploma en machine learning no supervisado",
             "id": "245",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2379,7 +2379,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "321",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2387,7 +2387,7 @@
             "target": "Diploma en Cloud Devops",
             "id": "57",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2395,7 +2395,7 @@
             "target": "Experto Pentesting y Hacking Ético",
             "id": "10",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2403,7 +2403,7 @@
             "target": "Experto Investigación y Respuesta ante Incidentes",
             "id": "3",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2411,7 +2411,7 @@
             "target": "Experto Gobierno y Planes Directores",
             "id": "17",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2419,7 +2419,7 @@
             "target": "Diploma en auditoria forense",
             "id": "31",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2427,7 +2427,7 @@
             "target": "Diploma en configuracion segura de sistemas",
             "id": "37",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2435,7 +2435,7 @@
             "target": "Diploma en ingeniero de ddbb cloud",
             "id": "65",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2443,7 +2443,7 @@
             "target": "Master Data Science Online",
             "id": "181",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2451,7 +2451,7 @@
             "target": "Diploma de fundamentos de cloud computing",
             "id": "55",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2459,7 +2459,7 @@
             "target": "Diploma en machine learning supervisado",
             "id": "244",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2467,7 +2467,7 @@
             "target": "Master Cloud 360",
             "id": "288",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2475,7 +2475,7 @@
             "target": "Master Cloud 360",
             "id": "279",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2483,7 +2483,7 @@
             "target": "Diploma en python avanzado",
             "id": "208",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2491,7 +2491,7 @@
             "target": "Legal \u0026 Smart Contracts",
             "id": "98",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2499,7 +2499,7 @@
             "target": "Master Avanzado en Ciberseguridad",
             "id": "24",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2507,7 +2507,7 @@
             "target": "Master Avanzado en Ciberseguridad",
             "id": "25",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2515,7 +2515,7 @@
             "target": "Experto Data Analytics Avanzado",
             "id": "177",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2523,7 +2523,7 @@
             "target": "Experto Data Analytics",
             "id": "169",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2531,7 +2531,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "302",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2539,7 +2539,7 @@
             "target": "Cloud Core",
             "id": "256",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2547,7 +2547,7 @@
             "target": "Experto Cloud SRE",
             "id": "251",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2555,7 +2555,7 @@
             "target": "Diploma en auditoria forense",
             "id": "42",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2563,7 +2563,7 @@
             "target": "Master Data Science Online",
             "id": "185",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2571,7 +2571,7 @@
             "target": "Master Cloud 360",
             "id": "283",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2579,7 +2579,7 @@
             "target": "Diploma en ingeniero de seguridad cloud",
             "id": "54",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2587,7 +2587,7 @@
             "target": "Diploma en ingeniero de ddbb cloud",
             "id": "85",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2595,7 +2595,7 @@
             "target": "Blockchain in Legal",
             "id": "96",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2603,7 +2603,7 @@
             "target": "Experto Cloud DevOps",
             "id": "264",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2611,7 +2611,7 @@
             "target": "Experto Cloud DevOps",
             "id": "286",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2619,7 +2619,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "317",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2627,7 +2627,7 @@
             "target": "Secure coding",
             "id": "373",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2635,7 +2635,7 @@
             "target": "Diseño visual de la interfaz (UI). Prototipado",
             "id": "362",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2643,7 +2643,7 @@
             "target": "Diploma en Cloud Devops",
             "id": "84",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2651,7 +2651,7 @@
             "target": "Master Cloud 360",
             "id": "285",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2659,7 +2659,7 @@
             "target": "Diploma en fundamentos de python",
             "id": "231",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2667,7 +2667,7 @@
             "target": "Experto Cloud DevOps",
             "id": "276",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2675,7 +2675,7 @@
             "target": "Artificial Intelligence",
             "id": "323",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2683,7 +2683,7 @@
             "target": "Experto Gobierno y Planes Directores",
             "id": "16",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2691,7 +2691,7 @@
             "target": "Experto Data Engineering Avanzado (Big Data)",
             "id": "175",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2699,7 +2699,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "309",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2707,7 +2707,7 @@
             "target": "Introducción al desarrollo",
             "id": "384",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2715,7 +2715,7 @@
             "target": "Experto Data Analytics Avanzado",
             "id": "202",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2723,7 +2723,7 @@
             "target": "Voice Tech",
             "id": "383",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2731,7 +2731,7 @@
             "target": "Master Data Science Online",
             "id": "192",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2739,7 +2739,7 @@
             "target": "Cloud Computing",
             "id": "342",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2747,7 +2747,7 @@
             "target": "Diploma en modelos de bases de datos",
             "id": "209",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2755,7 +2755,7 @@
             "target": "Diploma en fundamentos de python",
             "id": "242",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2763,7 +2763,7 @@
             "target": "Diploma en tecnico Cloud",
             "id": "75",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2771,7 +2771,7 @@
             "target": "Experto Cloud Architect",
             "id": "250",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2779,7 +2779,7 @@
             "target": "Diploma en ingeniero de ddbb cloud",
             "id": "58",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2787,7 +2787,7 @@
             "target": "Diploma en cloud SRE",
             "id": "87",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2795,7 +2795,7 @@
             "target": "Diploma en big data",
             "id": "218",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2803,7 +2803,7 @@
             "target": "Diploma en fundamentos de programación",
             "id": "206",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2811,7 +2811,7 @@
             "target": "Experto Cloud DevOps",
             "id": "252",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2819,7 +2819,7 @@
             "target": "Computer Architecture",
             "id": "330",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2827,7 +2827,7 @@
             "target": "Blockchain para el sector legal",
             "id": "99",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2835,7 +2835,7 @@
             "target": "Master Avanzado en Ciberseguridad",
             "id": "22",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2843,7 +2843,7 @@
             "target": "Experto Cloud DevOps",
             "id": "259",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2851,7 +2851,7 @@
             "target": "Robotics",
             "id": "345",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2859,7 +2859,7 @@
             "target": "Master Avanzado en data Science",
             "id": "199",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2867,7 +2867,7 @@
             "target": "Blockchain in Legal",
             "id": "94",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2875,7 +2875,7 @@
             "target": "Desarrollo web",
             "id": "390",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2883,7 +2883,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "307",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2891,7 +2891,7 @@
             "target": "Javascript",
             "id": "386",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2899,7 +2899,7 @@
             "target": "Experto Cloud Architect",
             "id": "268",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2907,7 +2907,7 @@
             "target": "Master Cloud DevOps",
             "id": "261",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2915,7 +2915,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "318",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2923,7 +2923,7 @@
             "target": "Master Online en ciberseguridad",
             "id": "0",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2931,7 +2931,7 @@
             "target": "Experto Data Analytics Avanzado",
             "id": "200",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2939,7 +2939,7 @@
             "target": "Introducción al UX/UI. Design Sprint",
             "id": "359",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2947,7 +2947,7 @@
             "target": "Experto Cloud Architect",
             "id": "274",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2955,7 +2955,7 @@
             "target": "Ciberinteligencia y respuesta a incidentes",
             "id": "50",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2963,7 +2963,7 @@
             "target": "Master Cloud Architect",
             "id": "289",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2971,7 +2971,7 @@
             "target": "Diploma en fundamentos de python",
             "id": "233",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2979,7 +2979,7 @@
             "target": "Diploma en Arquitecto Cloud Senior",
             "id": "73",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2987,7 +2987,7 @@
             "target": "Experto Investigación y Respuesta ante Incidentes",
             "id": "19",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -2995,7 +2995,7 @@
             "target": "HTML y CSS",
             "id": "385",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3003,7 +3003,7 @@
             "target": "Data Science",
             "id": "324",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3011,7 +3011,7 @@
             "target": "Diploma en machine learning supervisado",
             "id": "214",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3019,7 +3019,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "320",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3027,7 +3027,7 @@
             "target": "Master Cloud 360",
             "id": "292",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3035,7 +3035,7 @@
             "target": "Data Structures",
             "id": "327",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3043,7 +3043,7 @@
             "target": "Software Engineering II",
             "id": "339",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3051,7 +3051,7 @@
             "target": "Networking",
             "id": "333",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3059,7 +3059,7 @@
             "target": "Diploma en ingeniero de ddbb cloud",
             "id": "53",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3067,7 +3067,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "319",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3075,7 +3075,7 @@
             "target": "Diploma en auditorias y pruebas de paso a produccion",
             "id": "38",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3083,7 +3083,7 @@
             "target": "Secure coding",
             "id": "375",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3091,7 +3091,7 @@
             "target": "Voice Tech",
             "id": "380",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3099,7 +3099,7 @@
             "target": "Diploma en programacion de exploits",
             "id": "46",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3107,7 +3107,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "308",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3115,7 +3115,7 @@
             "target": "Master Cloud 360",
             "id": "290",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3123,7 +3123,7 @@
             "target": "Bootcamp de Desarrollo Web",
             "id": "349",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3131,7 +3131,7 @@
             "target": "Bootcamp Data Analytics",
             "id": "173",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3139,7 +3139,7 @@
             "target": "Diploma en fundamentos de python",
             "id": "220",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3147,7 +3147,7 @@
             "target": "Master Cloud 360",
             "id": "267",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3155,7 +3155,7 @@
             "target": "Master Cloud DevOps",
             "id": "291",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3163,7 +3163,7 @@
             "target": "Experto Cloud SRE",
             "id": "281",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3171,7 +3171,7 @@
             "target": "Diploma en fundamentos de programación",
             "id": "219",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3179,7 +3179,7 @@
             "target": "Diploma en Machine Learning Cloud",
             "id": "66",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3187,7 +3187,7 @@
             "target": "Diploma en fundamentos de ciberseguridad e it",
             "id": "44",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3195,7 +3195,7 @@
             "target": "Experto Data Engineering",
             "id": "174",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3203,7 +3203,7 @@
             "target": "Master Cloud Architect",
             "id": "282",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3211,7 +3211,7 @@
             "target": "Experto Cloud DevOps",
             "id": "270",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3219,7 +3219,7 @@
             "target": "Master Cloud 360",
             "id": "293",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3227,7 +3227,7 @@
             "target": "Prueba de seguridad de aplicaciones web",
             "id": "367",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3235,7 +3235,7 @@
             "target": "Presente y futuro de las interfaces conversacionales",
             "id": "376",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3243,7 +3243,7 @@
             "target": "Master Cloud Architect",
             "id": "265",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3251,7 +3251,7 @@
             "target": "Web Programming I",
             "id": "334",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3259,7 +3259,7 @@
             "target": "Experto Investigación y Respuesta ante Incidentes",
             "id": "12",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3267,7 +3267,7 @@
             "target": "Diploma en tecnico Cloud",
             "id": "68",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3275,7 +3275,7 @@
             "target": "Diploma en introduccion a machine learning",
             "id": "240",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3283,7 +3283,7 @@
             "target": "Master Cloud 360",
             "id": "262",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3291,7 +3291,7 @@
             "target": "Experto Data Engineering Avanzado (Big Data)",
             "id": "195",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3299,7 +3299,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "305",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3307,7 +3307,7 @@
             "target": "Master Data Science Online",
             "id": "191",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3315,7 +3315,7 @@
             "target": "Desarrollo web",
             "id": "392",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3323,7 +3323,7 @@
             "target": "Experto Data Engineering Avanzado (Big Data)",
             "id": "179",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3331,7 +3331,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "303",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3339,7 +3339,7 @@
             "target": "Master Cloud DevOps",
             "id": "254",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3347,7 +3347,7 @@
             "target": "Diploma en limpieza de datos i",
             "id": "222",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3355,7 +3355,7 @@
             "target": "Experto Gobierno y Planes Directores",
             "id": "1",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3363,7 +3363,7 @@
             "target": "Implementación de experiencias conversacionales",
             "id": "379",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3371,7 +3371,7 @@
             "target": "Bootcamp Diseño UX/UI",
             "id": "356",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3379,7 +3379,7 @@
             "target": "Diploma en analisis de ciberamenazas",
             "id": "43",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3387,7 +3387,7 @@
             "target": "Diploma en fundamentos de programación",
             "id": "230",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3395,7 +3395,7 @@
             "target": "Master Data Science Online",
             "id": "180",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3403,7 +3403,7 @@
             "target": "Experto Cloud SRE",
             "id": "284",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3411,7 +3411,7 @@
             "target": "Experto Cloud SRE",
             "id": "258",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3419,7 +3419,7 @@
             "target": "Seguridad en Cloud",
             "id": "369",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3427,7 +3427,7 @@
             "target": "Backend",
             "id": "352",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3435,7 +3435,7 @@
             "target": "Experto Data Engineering",
             "id": "167",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3443,7 +3443,7 @@
             "target": "Diploma en ingeniero de seguridad cloud",
             "id": "72",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3451,7 +3451,7 @@
             "target": "Diploma en fundamentos de programación",
             "id": "241",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3459,7 +3459,7 @@
             "target": "Experto Cloud SRE",
             "id": "269",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3467,7 +3467,7 @@
             "target": "Secure coding",
             "id": "370",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3475,7 +3475,7 @@
             "target": "Experto Data Analytics",
             "id": "189",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3483,7 +3483,7 @@
             "target": "Experto Cloud Arhcitect",
             "id": "263",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3491,7 +3491,7 @@
             "target": "Diploma en tecnico Cloud",
             "id": "62",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3499,7 +3499,7 @@
             "target": "Master Cloud 360",
             "id": "294",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3507,7 +3507,7 @@
             "target": "Experto Arquitectura Ciber",
             "id": "2",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3515,7 +3515,7 @@
             "target": "Diploma en fundamentos de python",
             "id": "207",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3523,7 +3523,7 @@
             "target": "Diploma de fundamentos de cloud computing",
             "id": "298",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3531,7 +3531,7 @@
             "target": "Diploma en configuracion segura de sistemas",
             "id": "27",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3539,7 +3539,7 @@
             "target": "Diploma en fundamentos de programación",
             "id": "226",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3547,7 +3547,7 @@
             "target": "Diploma en tecnico Cloud",
             "id": "299",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3555,7 +3555,7 @@
             "target": "Diploma en arquitecturas de ciberseguridad ot",
             "id": "39",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3563,7 +3563,7 @@
             "target": "Diploma en visualizacion avanzada de datos",
             "id": "212",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3571,7 +3571,7 @@
             "target": "Diploma en visualizacion avanzada de datos",
             "id": "228",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3579,7 +3579,7 @@
             "target": "Experto Cloud Architect",
             "id": "257",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3587,7 +3587,7 @@
             "target": "Master Cloud 360",
             "id": "255",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3595,7 +3595,7 @@
             "target": "Diploma en gestión de incidentes de ciberseguridad",
             "id": "30",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3603,7 +3603,7 @@
             "target": "Diploma de analista de riesgos",
             "id": "35",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3611,7 +3611,7 @@
             "target": "Experto Data Analytics Avanzado",
             "id": "187",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3619,7 +3619,7 @@
             "target": "Diploma en visualizacion avanzada de datos",
             "id": "243",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3627,7 +3627,7 @@
             "target": "Software Development Fundamentals I",
             "id": "325",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3635,7 +3635,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "310",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3643,7 +3643,7 @@
             "target": "Master Online en ciberseguridad",
             "id": "11",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3651,7 +3651,7 @@
             "target": "Diploma en ingeniero de ddbb cloud",
             "id": "71",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3659,7 +3659,7 @@
             "target": "Master Data Science Online",
             "id": "164",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3667,7 +3667,7 @@
             "target": "Master Cloud Architect",
             "id": "253",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3675,7 +3675,7 @@
             "target": "Diploma en deep learning",
             "id": "225",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3683,7 +3683,7 @@
             "target": "Diploma de fundamentos de cloud computing",
             "id": "296",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3691,7 +3691,7 @@
             "target": "Master Online en ciberseguridad",
             "id": "15",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3699,7 +3699,7 @@
             "target": "Diploma en Cloud Devops",
             "id": "52",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3707,7 +3707,7 @@
             "target": "Modelos de negocio en interfaces conversacionales",
             "id": "377",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3715,7 +3715,7 @@
             "target": "Experto Data Analytics",
             "id": "184",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3723,7 +3723,7 @@
             "target": "Master Data Science Online",
             "id": "190",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3731,7 +3731,7 @@
             "target": "Diploma en gestión de incidentes de ciberseguridad",
             "id": "41",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3739,7 +3739,7 @@
             "target": "Experto Data Analytics Avanzado",
             "id": "170",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3747,7 +3747,7 @@
             "target": "Diploma en tecnico Cloud",
             "id": "82",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3755,7 +3755,7 @@
             "target": "Experto Big Data",
             "id": "196",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3763,7 +3763,7 @@
             "target": "Diploma en machine learning no supervisado",
             "id": "224",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3771,7 +3771,7 @@
             "target": "Diploma en Machine Learning Cloud",
             "id": "88",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3779,7 +3779,7 @@
             "target": "Master Cloud Devops",
             "id": "266",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3787,7 +3787,7 @@
             "target": "Diploma en limpieza de datos i",
             "id": "229",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3795,7 +3795,7 @@
             "target": "Master Online en ciberseguridad",
             "id": "7",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3803,7 +3803,7 @@
             "target": "Seguridad en fase de diseño",
             "id": "366",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3811,7 +3811,7 @@
             "target": "Principios de la ciberseguridad",
             "id": "47",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3819,7 +3819,7 @@
             "target": "Master Data Science Online",
             "id": "188",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3827,7 +3827,7 @@
             "target": "Conceptos básicos",
             "id": "364",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3835,7 +3835,7 @@
             "target": "Diploma de fundamentos de cloud computing",
             "id": "74",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3843,7 +3843,7 @@
             "target": "Diploma en ingeniero Devops Senior",
             "id": "80",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3851,7 +3851,7 @@
             "target": "Diploma en ingeniero Devops Senior",
             "id": "90",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3859,7 +3859,7 @@
             "target": "El futuro de la ciberseguridad",
             "id": "51",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3867,7 +3867,7 @@
             "target": "Master Cloud 360",
             "id": "273",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3875,7 +3875,7 @@
             "target": "Master Cloud Architect",
             "id": "260",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3883,7 +3883,7 @@
             "target": "Diploma en Cloud Devops",
             "id": "70",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3891,7 +3891,7 @@
             "target": "Diploma en gobierno y cumplimiento",
             "id": "34",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3899,7 +3899,7 @@
             "target": "Diploma de fundamentos de cloud computing",
             "id": "295",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3907,7 +3907,7 @@
             "target": "Diploma de fundamentos de cloud computing",
             "id": "61",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3915,7 +3915,7 @@
             "target": "Diploma en ingeniero de datos Cloud",
             "id": "91",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3923,7 +3923,7 @@
             "target": "Bootcamp Diseño UX/UI",
             "id": "358",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3931,7 +3931,7 @@
             "target": "Desarrollo web",
             "id": "93",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3939,7 +3939,7 @@
             "target": "Ingeniería de Desarrollo de Software",
             "id": "315",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3947,7 +3947,7 @@
             "target": "Diseño de interacción y arquitectura de la información",
             "id": "361",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3955,7 +3955,7 @@
             "target": "Secure coding",
             "id": "372",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3963,7 +3963,7 @@
             "target": "Desarrollo web",
             "id": "391",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3971,7 +3971,7 @@
             "target": "Desarrollo de aplicaciones Backend",
             "id": "387",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3979,7 +3979,7 @@
             "target": "Bootcamp Data Analytics",
             "id": "186",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         },
         {
@@ -3987,7 +3987,7 @@
             "target": "Diploma en ingeniero de ddbb cloud",
             "id": "78",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(51, 217, 190)",
             "size": 1.0
         }
     ]
